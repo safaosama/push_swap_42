@@ -113,8 +113,8 @@ Collaboration included:
 
 ## Contributors
 
-- Your Name
-- Partner Name
+- Safa Osama
+- Noor ELali
 
 ---
 
